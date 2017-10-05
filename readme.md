@@ -45,6 +45,4 @@ If you want to try the program, you have to run a *local proxy* for the Deezer A
 
 ## Advanced Exercise
 
-Do you want an advanced challenge?
-
-Try splitting up the single TypeScript file into two files. One should encapsulate the communication with the Web API, the other one should focus on UI-related topics (e.g. handle button click, build DOM, etc.).
+Do you want an advanced challenge? Try splitting up the single TypeScript file into two files. One should encapsulate the communication with the Web API, the other one should focus on UI-related topics (e.g. handle button click, build DOM, etc.).
