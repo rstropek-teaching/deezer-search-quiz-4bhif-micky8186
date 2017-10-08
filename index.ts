@@ -57,6 +57,9 @@ window.onload = () => {
 
     // Build URL
     // Quiz: Why do we use a proxy instead of directly accessing Deezer's search API?
+    
+    // Watch out! We are getting some stuff from different domains!
+    // Don't ask me why, but that's it.
     let url = 'http://localhost:8080/https://api.deezer.com/search?q=' + filter.value;
 
     // Send request
